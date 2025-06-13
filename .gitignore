@@ -1,0 +1,18 @@
+# 忽略所有 .idea 文件夹
+**/.idea/
+
+# 忽略所有 __pycache__ 文件夹
+**/__pycache__/
+
+# 忽略 Python 编译缓存文件
+*.py[cod]
+
+# 忽略虚拟环境（如果存在）
+**/venv/
+**/env/
+**/.env/
+
+# 忽略临时文件和系统文件
+*.log
+.DS_Store
+Thumbs.db
